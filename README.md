@@ -9,6 +9,17 @@
 
 # 🚀 PressOne AI Platform
 
+
+## 🌐 Live System Overview
+
+PressOne AI is a production-style communication platform designed to automate outbound voice campaigns using VoIP and AI-based routing logic.
+
+It is built to handle:
+- Large-scale calling campaigns
+- Lead distribution
+- Real-time call tracking
+- Smart routing decisions
+
 A full-stack AI voice communication and VoIP automation platform for running outbound campaigns, managing leads, and intelligent call routing.
 
 ---
