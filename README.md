@@ -1,4 +1,4 @@
-# 🚀 PressOne AI Platform
+
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green)
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
