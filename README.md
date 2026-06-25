@@ -1,5 +1,14 @@
 # 🚀 PressOne AI Platform
 
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110-green)
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![VoIP](https://img.shields.io/badge/VoIP-SIP-orange)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
+
+# 🚀 PressOne AI Platform
+
 A full-stack AI voice communication and VoIP automation platform for running outbound campaigns, managing leads, and intelligent call routing.
 
 ---
