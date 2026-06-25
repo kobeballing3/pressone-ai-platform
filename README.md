@@ -24,6 +24,14 @@ A full-stack AI voice communication and VoIP automation platform for running out
 
 ---
 
+## 🏗 System Architecture
+
+Frontend → Dashboard UI (HTML/JS)  
+Backend → FastAPI Server  
+Database → SQLite  
+Telephony → VoIP / SIP Provider  
+Logic → Campaign Engine
+
 ## 🌐 Overview
 
 PressOne AI is a scalable communication system designed for businesses to automate voice outreach campaigns using VoIP infrastructure and AI-driven workflows.
@@ -36,6 +44,13 @@ It handles:
 * Real-time call status tracking
 
 ---
+## 🏗 System Architecture
+
+Frontend → Dashboard UI (HTML/JS)  
+Backend → FastAPI Server  
+Database → SQLite  
+Telephony → VoIP / SIP Provider  
+Logic → Campaign Engine
 
 ## ⚙️ Core Features
 
@@ -49,6 +64,13 @@ It handles:
 
 ---
 
+## 🏗 System Architecture
+
+Frontend → Dashboard UI (HTML/JS)  
+Backend → FastAPI Server  
+Database → SQLite  
+Telephony → VoIP / SIP Provider  
+Logic → Campaign Engine
 ## 🧰 Tech Stack
 
 **Backend**
@@ -71,6 +93,13 @@ It handles:
 * VoIP / SIP-based calling system
 
 ---
+## 🏗 System Architecture
+
+Frontend → Dashboard UI (HTML/JS)  
+Backend → FastAPI Server  
+Database → SQLite  
+Telephony → VoIP / SIP Provider  
+Logic → Campaign Engine
 
 ## 📁 Project Structure
 
